@@ -21,7 +21,7 @@ Le fichier de configuration `naming_conventions.json` doit être placé dans le 
     "Texture2D": "T_",
     "Material": "M_",
     "StaticMesh": "SM_"
-}```
+}
 
 ## Exemple d'utilisation
 
