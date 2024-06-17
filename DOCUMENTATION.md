@@ -29,7 +29,7 @@ Le fichier de configuration `naming_conventions.json` doit être placé dans le 
 Pour exécuter l'outil de validation des conventions de nommage, suivez les étapes ci-dessous :
 
 1. Placez le fichier de configuration `naming_conventions.json` dans le répertoire `Config` de votre projet.
-3. Exécutez le script principal `naming_convention_checker.py`.
+3. Exécutez le script principal `naming_convention_checker.py`. (Ouvrez Unreal -> Tools -> Execute Python Script)
 
 Le script analysera les assets de votre projet dans le répertoire "Game" et générera un rapport des assets non conformes.
 
